@@ -1,0 +1,4 @@
+CONFIG:
+  BROWSER_NAME: chrome
+  IMPLICITY_WAIT: 20
+  URL: http://automationpractice.com/index.php
